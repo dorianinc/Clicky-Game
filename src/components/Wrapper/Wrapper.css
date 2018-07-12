@@ -1,0 +1,11 @@
+.wrapper {
+    background: rgb(175, 175, 175);
+    background-image: url('http://us.battle.net/forums/static/images/backgrounds/background-overwatch-top.jpg');
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+  }
